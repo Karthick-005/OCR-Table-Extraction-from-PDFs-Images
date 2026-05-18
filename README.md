@@ -65,9 +65,9 @@ Excel Export
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/table-extraction-engine.git
+git clone https://github.com/Karthick-005/OCR-Table-Extraction-from-PDFs-Images.git
 
-cd table-extraction-engine
+cd OCR-Table-Extraction-from-PDFs-Images
 ```
 
 ---
@@ -279,7 +279,7 @@ Each detected table is exported as a separate Excel sheet.
 # Folder Structure
 
 ```text
-table-extraction-engine/
+OCR-Table-Extraction-from-PDFs-Images/
 │
 ├── debug_output/
 │   ├── pages/
